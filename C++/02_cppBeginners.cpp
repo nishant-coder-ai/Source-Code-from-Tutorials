@@ -6,6 +6,6 @@ using namespace std;
 int main()
 {
 
-  cout << "hello world";
+  cout << "hello Blue Sky";
   return 0;
 }
